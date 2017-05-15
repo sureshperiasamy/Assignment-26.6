@@ -1,1 +1,688 @@
 # Assignment-26.6
+output 1:
+Afghanistan	2
+Algeria	8
+Argentina	141
+Armenia	10
+Australia	609
+Austria	91
+Azerbaijan	25
+Bahamas	24
+Bahrain	1
+Barbados	1
+Belarus	97
+Belgium	18
+Botswana	1
+Brazil	221
+Bulgaria	41
+Cameroon	20
+Canada	370
+Chile	22
+China	530
+Chinese Taipei	20
+Colombia	13
+Costa Rica	2
+Croatia	81
+Cuba	188
+Cyprus	1
+Czech Republic	81
+Denmark	89
+Dominican Republic	5
+Ecuador	1
+Egypt	8
+Eritrea	1
+Estonia	18
+Ethiopia	29
+Finland	118
+France	318
+Gabon	1
+Georgia	23
+Germany	629
+Great Britain	322
+Greece	59
+Grenada	1
+Guatemala	1
+Hong Kong	3
+Hungary	145
+Iceland	15
+India	11
+Indonesia	22
+Iran	24
+Ireland	9
+Israel	4
+Italy	331
+Jamaica	80
+Japan	282
+Kazakhstan	42
+Kenya	39
+Kuwait	2
+Kyrgyzstan	3
+Latvia	17
+Lithuania	30
+Macedonia	1
+Malaysia	3
+Mauritius	1
+Mexico	38
+Moldova	5
+Mongolia	10
+Montenegro	14
+Morocco	11
+Mozambique	1
+Netherlands	318
+New Zealand	52
+Nigeria	39
+North Korea	21
+Norway	192
+Panama	1
+Paraguay	17
+Poland	80
+Portugal	9
+Puerto Rico	2
+Qatar	3
+Romania	123
+Russia	768
+Saudi Arabia	6
+Serbia	31
+Serbia and Montenegro	38
+Singapore	7
+Slovakia	35
+Slovenia	25
+South Africa	25
+South Korea	308
+Spain	205
+Sri Lanka	1
+Sudan	1
+Sweden	181
+Switzerland	93
+Syria	1
+Tajikistan	3
+Thailand	18
+Togo	1
+Trinidad and Tobago	19
+Tunisia	4
+Turkey	28
+Uganda	1
+Ukraine	143
+United Arab Emirates	1
+United States	1312
+Uruguay	1
+Uzbekistan	19
+Venezuela	4
+Vietnam	2
+Zimbabwe	7
+
+
+
+
+
+output 2:
+Algeria	2000	4
+Australia	2000	3
+Austria	2000	1
+Bahamas	2000	11
+Barbados	2000	1
+Belarus	2000	5
+Brazil	2000	5
+Bulgaria	2000	1
+China	2000	1
+Cuba	2000	9
+Czech Republic	2000	2
+Denmark	2000	1
+Estonia	2000	1
+Ethiopia	2000	8
+Finland	2000	1
+Germany	2000	5
+Great Britain	2000	6
+Greece	2000	4
+Iceland	2000	1
+Ireland	2000	1
+Italy	2000	2
+Jamaica	2000	23
+Japan	2000	1
+Kazakhstan	2000	1
+Kenya	2000	7
+Latvia	2000	1
+Lithuania	2000	1
+Mexico	2000	2
+Morocco	2000	4
+Mozambique	2000	1
+Nigeria	2000	7
+Norway	2000	2
+Poland	2000	4
+Portugal	2000	1
+Romania	2000	5
+Russia	2000	18
+Saudi Arabia	2000	1
+South Africa	2000	3
+Spain	2000	1
+Sri Lanka	2000	1
+Sweden	2000	1
+Trinidad and Tobago	2000	2
+Ukraine	2000	2
+United States	2000	28
+Australia	2004	6
+Bahamas	2004	2
+Belarus	2004	3
+Brazil	2004	1
+Cameroon	2004	1
+China	2004	2
+Cuba	2004	5
+Czech Republic	2004	2
+Denmark	2004	2
+Dominican Republic	2004	1
+Eritrea	2004	1
+Estonia	2004	1
+Ethiopia	2004	7
+France	2004	5
+Germany	2004	2
+Great Britain	2004	7
+Greece	2004	5
+Hungary	2004	1
+Italy	2004	3
+Jamaica	2004	13
+Japan	2004	2
+Kazakhstan	2004	1
+Kenya	2004	7
+Latvia	2004	1
+Lithuania	2004	2
+Mexico	2004	1
+Morocco	2004	3
+Nigeria	2004	8
+Norway	2004	1
+Poland	2004	2
+Portugal	2004	2
+Romania	2004	3
+Russia	2004	28
+Slovenia	2004	1
+South Africa	2004	2
+Spain	2004	2
+Sweden	2004	3
+Turkey	2004	1
+Ukraine	2004	4
+United States	2004	39
+Australia	2008	4
+Bahamas	2008	7
+Belarus	2008	7
+Belgium	2008	5
+Brazil	2008	1
+Cameroon	2008	1
+Canada	2008	1
+China	2008	2
+Croatia	2008	1
+Cuba	2008	5
+Czech Republic	2008	1
+Ecuador	2008	1
+Estonia	2008	1
+Ethiopia	2008	7
+Finland	2008	1
+France	2008	2
+Germany	2008	1
+Great Britain	2008	4
+Greece	2008	1
+Italy	2008	2
+Jamaica	2008	19
+Japan	2008	4
+Kenya	2008	14
+Latvia	2008	1
+Lithuania	2008	1
+Morocco	2008	2
+New Zealand	2008	2
+Nigeria	2008	6
+Norway	2008	2
+Panama	2008	1
+Poland	2008	2
+Portugal	2008	1
+Romania	2008	1
+Russia	2008	29
+Slovenia	2008	1
+South Africa	2008	1
+Sudan	2008	1
+Trinidad and Tobago	2008	6
+Turkey	2008	2
+Ukraine	2008	5
+United States	2008	32
+Algeria	2012	1
+Australia	2012	3
+Bahamas	2012	4
+Bahrain	2012	1
+Botswana	2012	1
+Canada	2012	1
+China	2012	6
+Colombia	2012	1
+Croatia	2012	1
+Cuba	2012	2
+Czech Republic	2012	2
+Dominican Republic	2012	2
+Estonia	2012	1
+Ethiopia	2012	7
+Finland	2012	1
+France	2012	2
+Germany	2012	8
+Great Britain	2012	6
+Grenada	2012	1
+Guatemala	2012	1
+Hungary	2012	1
+Iran	2012	1
+Italy	2012	1
+Jamaica	2012	25
+Japan	2012	1
+Kazakhstan	2012	1
+Kenya	2012	11
+Morocco	2012	1
+New Zealand	2012	1
+Poland	2012	2
+Puerto Rico	2012	1
+Qatar	2012	1
+Russia	2012	23
+Slovenia	2012	1
+South Africa	2012	1
+Trinidad and Tobago	2012	10
+Tunisia	2012	1
+Turkey	2012	2
+Uganda	2012	1
+Ukraine	2012	6
+United States	2012	48
+
+
+output 3:
+Algeria	2000	24.6
+Argentina	2000	24.95
+Armenia	2000	24.0
+Australia	2000	26.614906832298136
+Austria	2000	30.5
+Azerbaijan	2000	28.333333333333332
+Bahamas	2000	28.1
+Barbados	2000	24.0
+Belarus	2000	25.952380952380953
+Belgium	2000	29.0
+Brazil	2000	27.020833333333332
+Bulgaria	2000	26.0
+Cameroon	2000	21.11111111111111
+Canada	2000	25.733333333333334
+Chile	2000	23.235294117647058
+China	2000	22.890625
+Chinese Taipei	2000	24.2
+Colombia	2000	35.0
+Costa Rica	2000	27.0
+Croatia	2000	25.7
+Cuba	2000	27.815384615384616
+Czech Republic	2000	28.11111111111111
+Denmark	2000	27.2
+Estonia	2000	27.666666666666668
+Ethiopia	2000	24.285714285714285
+Finland	2000	31.4
+France	2000	27.39344262295082
+Georgia	2000	26.5
+Germany	2000	26.858490566037737
+Great Britain	2000	28.641509433962263
+Greece	2000	22.61111111111111
+Hungary	2000	26.408163265306122
+Iceland	2000	22.0
+India	2000	25.0
+Indonesia	2000	25.0
+Iran	2000	22.75
+Ireland	2000	30.0
+Israel	2000	25.0
+Italy	2000	28.866666666666667
+Jamaica	2000	26.58823529411765
+Japan	2000	24.926829268292682
+Kazakhstan	2000	26.571428571428573
+Kenya	2000	25.571428571428573
+Kuwait	2000	33.0
+Kyrgyzstan	2000	23.0
+Latvia	2000	24.333333333333332
+Lithuania	2000	26.647058823529413
+Macedonia	2000	26.0
+Mexico	2000	25.666666666666668
+Moldova	2000	28.0
+Morocco	2000	26.2
+Mozambique	2000	27.0
+Netherlands	2000	27.28358208955224
+New Zealand	2000	32.5
+Nigeria	2000	23.875
+North Korea	2000	22.0
+Norway	2000	27.19047619047619
+Poland	2000	24.608695652173914
+Portugal	2000	27.5
+Qatar	2000	21.0
+Romania	2000	25.228571428571428
+Russia	2000	25.613095238095237
+Saudi Arabia	2000	27.0
+Serbia and Montenegro	2000	27.08
+Slovakia	2000	22.0
+Slovenia	2000	28.666666666666668
+South Africa	2000	23.0
+South Korea	2000	25.07246376811594
+Spain	2000	25.61904761904762
+Sri Lanka	2000	24.0
+Sweden	2000	28.133333333333333
+Switzerland	2000	31.076923076923077
+Thailand	2000	26.0
+Trinidad and Tobago	2000	26.0
+Turkey	2000	25.6
+Ukraine	2000	24.78125
+United States	2000	26.299065420560748
+Uruguay	2000	28.0
+Uzbekistan	2000	23.25
+Vietnam	2000	26.0
+Australia	2002	27.5
+Austria	2002	28.071428571428573
+Belarus	2002	22.0
+Bulgaria	2002	25.5
+Canada	2002	28.5
+China	2002	23.09090909090909
+Croatia	2002	20.0
+Czech Republic	2002	28.5
+Estonia	2002	30.0
+Finland	2002	23.333333333333332
+France	2002	27.071428571428573
+Germany	2002	27.29787234042553
+Great Britain	2002	31.166666666666668
+Italy	2002	27.11111111111111
+Japan	2002	26.0
+Netherlands	2002	26.833333333333332
+Norway	2002	30.071428571428573
+Poland	2002	24.0
+Russia	2002	27.0
+Slovenia	2002	23.25
+South Korea	2002	17.4
+Sweden	2002	23.0
+Switzerland	2002	28.391304347826086
+United States	2002	27.1125
+Argentina	2004	26.46938775510204
+Australia	2004	26.165413533834588
+Austria	2004	29.428571428571427
+Azerbaijan	2004	30.8
+Bahamas	2004	28.0
+Belarus	2004	26.647058823529413
+Belgium	2004	27.0
+Brazil	2004	27.425
+Bulgaria	2004	23.6
+Cameroon	2004	28.0
+Canada	2004	27.5
+Chile	2004	25.0
+China	2004	23.761363636363637
+Chinese Taipei	2004	21.77777777777778
+Colombia	2004	35.0
+Croatia	2004	26.714285714285715
+Cuba	2004	26.177419354838708
+Czech Republic	2004	24.25
+Denmark	2004	27.310344827586206
+Dominican Republic	2004	26.0
+Egypt	2004	26.8
+Eritrea	2004	22.0
+Estonia	2004	34.0
+Ethiopia	2004	22.666666666666668
+Finland	2004	29.0
+France	2004	27.1875
+Georgia	2004	25.0
+Germany	2004	27.431654676258994
+Great Britain	2004	28.333333333333332
+Greece	2004	26.903225806451612
+Hong Kong	2004	28.5
+Hungary	2004	27.210526315789473
+India	2004	34.0
+Indonesia	2004	24.6
+Iran	2004	26.166666666666668
+Israel	2004	27.5
+Italy	2004	26.73267326732673
+Jamaica	2004	26.363636363636363
+Japan	2004	26.083333333333332
+Kazakhstan	2004	24.625
+Kenya	2004	23.857142857142858
+Latvia	2004	26.0
+Lithuania	2004	28.666666666666668
+Mexico	2004	26.25
+Mongolia	2004	20.0
+Morocco	2004	27.5
+Netherlands	2004	26.788732394366196
+New Zealand	2004	27.166666666666668
+Nigeria	2004	23.0
+North Korea	2004	24.2
+Norway	2004	26.166666666666668
+Paraguay	2004	23.823529411764707
+Poland	2004	26.8
+Portugal	2004	25.333333333333332
+Romania	2004	24.93103448275862
+Russia	2004	26.363128491620113
+Serbia and Montenegro	2004	27.153846153846153
+Slovakia	2004	26.0
+Slovenia	2004	26.8
+South Africa	2004	24.625
+South Korea	2004	24.959183673469386
+Spain	2004	30.03846153846154
+Sweden	2004	29.833333333333332
+Switzerland	2004	28.285714285714285
+Syria	2004	22.0
+Thailand	2004	23.375
+Trinidad and Tobago	2004	21.0
+Turkey	2004	24.6
+Ukraine	2004	26.893617021276597
+United Arab Emirates	2004	40.0
+United States	2004	26.166666666666668
+Uzbekistan	2004	23.8
+Venezuela	2004	26.5
+Zimbabwe	2004	20.0
+Australia	2006	26.0
+Austria	2006	27.428571428571427
+Belarus	2006	28.0
+Bulgaria	2006	28.0
+Canada	2006	27.57377049180328
+China	2006	25.272727272727273
+Croatia	2006	25.0
+Czech Republic	2006	29.807692307692307
+Estonia	2006	31.5
+Finland	2006	28.3
+France	2006	27.46153846153846
+Germany	2006	28.605263157894736
+Great Britain	2006	24.0
+Italy	2006	29.666666666666668
+Japan	2006	24.0
+Latvia	2006	27.0
+Netherlands	2006	27.444444444444443
+Norway	2006	30.0625
+Poland	2006	27.5
+Russia	2006	27.914285714285715
+Slovakia	2006	24.0
+South Korea	2006	20.181818181818183
+Sweden	2006	27.1864406779661
+Switzerland	2006	28.263157894736842
+Ukraine	2006	30.666666666666668
+United States	2006	24.434782608695652
+Afghanistan	2008	21.0
+Algeria	2008	24.5
+Argentina	2008	26.941176470588236
+Armenia	2008	24.333333333333332
+Australia	2008	26.25
+Austria	2008	26.0
+Azerbaijan	2008	24.285714285714285
+Bahamas	2008	25.285714285714285
+Belarus	2008	24.642857142857142
+Belgium	2008	27.0
+Brazil	2008	26.041095890410958
+Bulgaria	2008	26.2
+Cameroon	2008	32.0
+Canada	2008	30.545454545454547
+Chile	2008	28.0
+China	2008	23.719745222929937
+Chinese Taipei	2008	25.25
+Colombia	2008	24.5
+Croatia	2008	23.0
+Cuba	2008	26.595744680851062
+Czech Republic	2008	27.5
+Denmark	2008	28.36842105263158
+Dominican Republic	2008	26.0
+Ecuador	2008	34.0
+Egypt	2008	26.0
+Estonia	2008	33.333333333333336
+Ethiopia	2008	23.8
+Finland	2008	30.4
+France	2008	26.814285714285713
+Georgia	2008	30.666666666666668
+Germany	2008	27.22826086956522
+Great Britain	2008	27.571428571428573
+Greece	2008	28.0
+Hungary	2008	27.782608695652176
+Iceland	2008	27.785714285714285
+India	2008	24.0
+Indonesia	2008	23.0
+Iran	2008	30.0
+Ireland	2008	24.333333333333332
+Israel	2008	21.0
+Italy	2008	29.82051282051282
+Jamaica	2008	23.533333333333335
+Japan	2008	25.333333333333332
+Kazakhstan	2008	23.76923076923077
+Kenya	2008	23.785714285714285
+Kyrgyzstan	2008	23.0
+Latvia	2008	26.666666666666668
+Lithuania	2008	31.4
+Malaysia	2008	25.0
+Mauritius	2008	30.0
+Mexico	2008	23.5
+Moldova	2008	25.0
+Mongolia	2008	25.0
+Morocco	2008	33.0
+Netherlands	2008	26.6
+New Zealand	2008	25.642857142857142
+Nigeria	2008	21.652173913043477
+North Korea	2008	23.333333333333332
+Norway	2008	27.90909090909091
+Panama	2008	25.0
+Poland	2008	27.45
+Portugal	2008	23.0
+Romania	2008	26.210526315789473
+Russia	2008	25.07246376811594
+Serbia	2008	26.6
+Singapore	2008	25.333333333333332
+Slovakia	2008	29.4
+Slovenia	2008	29.6
+South Africa	2008	23.0
+South Korea	2008	25.84722222222222
+Spain	2008	27.772727272727273
+Sudan	2008	23.0
+Sweden	2008	32.714285714285715
+Switzerland	2008	30.8
+Tajikistan	2008	27.5
+Thailand	2008	25.5
+Togo	2008	27.0
+Trinidad and Tobago	2008	24.4
+Tunisia	2008	24.0
+Turkey	2008	23.428571428571427
+Ukraine	2008	25.451612903225808
+United States	2008	26.03041825095057
+Uzbekistan	2008	25.333333333333332
+Venezuela	2008	24.0
+Vietnam	2008	23.0
+Zimbabwe	2008	24.0
+Australia	2010	25.333333333333332
+Austria	2010	27.333333333333332
+Belarus	2010	27.666666666666668
+Canada	2010	27.802325581395348
+China	2010	26.0
+Croatia	2010	26.0
+Czech Republic	2010	27.5
+Estonia	2010	32.0
+Finland	2010	27.652173913043477
+France	2010	26.09090909090909
+Germany	2010	27.558139534883722
+Great Britain	2010	27.0
+Italy	2010	27.0
+Japan	2010	25.0
+Kazakhstan	2010	29.0
+Latvia	2010	25.0
+Netherlands	2010	25.666666666666668
+Norway	2010	28.296296296296298
+Poland	2010	26.4
+Russia	2010	26.5
+Slovakia	2010	28.5
+Slovenia	2010	28.0
+South Korea	2010	20.0
+Sweden	2010	30.692307692307693
+Switzerland	2010	28.636363636363637
+United States	2010	25.202380952380953
+Afghanistan	2012	25.0
+Algeria	2012	24.0
+Argentina	2012	25.894736842105264
+Armenia	2012	23.333333333333332
+Australia	2012	25.646464646464647
+Azerbaijan	2012	23.4
+Bahamas	2012	27.25
+Bahrain	2012	27.0
+Belarus	2012	25.0
+Belgium	2012	26.0
+Botswana	2012	18.0
+Brazil	2012	26.071428571428573
+Bulgaria	2012	29.0
+Canada	2012	27.490909090909092
+China	2012	23.75728155339806
+Chinese Taipei	2012	23.0
+Colombia	2012	24.625
+Croatia	2012	27.542857142857144
+Cuba	2012	24.857142857142858
+Cyprus	2012	22.0
+Czech Republic	2012	26.071428571428573
+Denmark	2012	28.6875
+Dominican Republic	2012	26.5
+Egypt	2012	26.5
+Estonia	2012	30.0
+Ethiopia	2012	25.0
+Finland	2012	26.2
+France	2012	26.885714285714286
+Gabon	2012	23.0
+Georgia	2012	24.285714285714285
+Germany	2012	27.57471264367816
+Great Britain	2012	27.79824561403509
+Greece	2012	24.333333333333332
+Grenada	2012	19.0
+Guatemala	2012	21.0
+Hong Kong	2012	25.0
+Hungary	2012	27.5
+India	2012	27.333333333333332
+Indonesia	2012	23.5
+Iran	2012	24.916666666666668
+Ireland	2012	25.2
+Italy	2012	28.61904761904762
+Jamaica	2012	25.444444444444443
+Japan	2012	25.44736842105263
+Kazakhstan	2012	26.153846153846153
+Kenya	2012	26.5
+Kuwait	2012	45.0
+Latvia	2012	25.333333333333332
+Lithuania	2012	23.0
+Malaysia	2012	24.0
+Mexico	2012	22.833333333333332
+Moldova	2012	21.0
+Mongolia	2012	25.2
+Montenegro	2012	25.714285714285715
+Morocco	2012	25.0
+Netherlands	2012	27.46875
+New Zealand	2012	28.51851851851852
+North Korea	2012	23.0
+Norway	2012	28.176470588235293
+Poland	2012	26.5
+Portugal	2012	24.0
+Puerto Rico	2012	27.5
+Qatar	2012	31.0
+Romania	2012	23.857142857142858
+Russia	2012	24.728682170542637
+Saudi Arabia	2012	34.5
+Serbia	2012	26.0
+Singapore	2012	29.0
+Slovakia	2012	30.4
+Slovenia	2012	36.8
+South Africa	2012	24.625
+South Korea	2012	25.49122807017544
+Spain	2012	26.16393442622951
+Sweden	2012	30.40909090909091
+Switzerland	2012	29.0
+Tajikistan	2012	19.0
+Thailand	2012	25.0
+Trinidad and Tobago	2012	24.22222222222222
+Tunisia	2012	28.0
+Turkey	2012	22.0
+Uganda	2012	23.0
+Ukraine	2012	25.041666666666668
+United States	2012	26.194174757281555
+Uzbekistan	2012	28.0
+Venezuela	2012	26.0
